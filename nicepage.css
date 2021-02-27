@@ -5503,7 +5503,7 @@ a {
   .u-form-horizontal {
     flex-direction: column;
     align-items: stretch;
-    margin: -0.5rem !important;
+    margin: 0.0rem !important;
   }
   .u-form-horizontal .u-form-group {
     border: 0.5rem solid transparent !important;
